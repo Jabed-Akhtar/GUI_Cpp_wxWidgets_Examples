@@ -1,8 +1,11 @@
+**/*.vcxproj.user
 
 # Folders
-proj_drawIo_ws
 **/Debug/
 **/.vs/
+
+# Drawio
+*.drawio
 
 # Prerequisites
 *.d
